@@ -1,0 +1,13 @@
+edu.monash.fit2099.demo.conwayslife
+edu.monash.fit2099.demo.mars
+edu.monash.fit2099.engine
+edu.monash.fit2099.interfaces
+edu.monash.fit2099.utils
+game
+game.dinosaur
+game.dinosaur.behaviours
+game.dinosaur.interfaces
+game.ground
+game.items
+game.items.vending
+game.player
